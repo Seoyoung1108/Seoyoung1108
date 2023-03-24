@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github Profile 👋
 
 <!--
 **Seoyoung1108/Seoyoung1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
