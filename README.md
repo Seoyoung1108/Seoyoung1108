@@ -1,11 +1,10 @@
 ## Welcome to my Github Profile 👋
 
-
 ### Frontend Developer
 
 <br>
 
-🗒️ Stacks
+🗒️ **Stacks**
 
 ![image](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
