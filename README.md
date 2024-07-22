@@ -1,6 +1,6 @@
 ## Welcome to my Github Profile 👋
 
-[Frontend Developer]()
+[Frontend Developer](https://seoyoung1108.notion.site)
 
 <br>
 
