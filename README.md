@@ -16,9 +16,8 @@
 
 📧 **Email**
 
-whtjdud1108@naver.com
+![image](https://img.shields.io/badge/whtjdud1108@naver.com-03C75A?style=for-the-badge&logo=next.&logoColor=white)
 
-whtjdud1108@uos.ac.kr
 
 <br>
 
