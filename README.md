@@ -1,6 +1,6 @@
 ## Welcome to my Github Profile 👋
 
-### Frontend Developer
+[Frontend Developer]
 
 <br>
 
