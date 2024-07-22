@@ -1,6 +1,6 @@
 ## Welcome to my Github Profile 👋
 
-[Frontend Developer]
+[Frontend Developer](https://seoyoung1108.notion.site)
 
 <br>
 
@@ -13,7 +13,6 @@
 📧 **Email**
 
 ![image](https://img.shields.io/badge/whtjdud1108@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)
-
 
 <br>
 
