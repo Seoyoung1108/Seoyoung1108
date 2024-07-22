@@ -16,7 +16,7 @@
 
 📧 **Email**
 
-![image](https://img.shields.io/badge/whtjdud1108@naver.com-03C75A?style=for-the-badge&logo=next.&logoColor=white)
+![image](https://img.shields.io/badge/whtjdud1108@naver.com-03C75A?style=flat&logo=naver&logoColor=white)
 
 
 <br>
