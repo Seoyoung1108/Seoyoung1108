@@ -25,5 +25,6 @@
 ![image](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![image](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![image](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seoyoung1108&layout=compact)
