@@ -1,7 +1,5 @@
 ## Welcome to my Github Profile 👋
 
-Frontend Developer
-
 <br>
 
 🏫 **학력**
